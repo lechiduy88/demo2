@@ -1,0 +1,58 @@
+{
+  "title": {
+    "message": "AI Short",
+    "description": "Tiêu đề trên thanh điều hướng"
+  },
+  "logo.alt": {
+    "message": "Phím tắt ChatGPT",
+    "description": "Văn bản thay thế cho logo trên thanh điều hướng"
+  },
+  "item.label.📘 使用说明": {
+    "message": "📘 Hướng dẫn",
+    "description": "Mục trên thanh điều hướng với nhãn 📘 使用说明"
+  },
+  "item.label.🏘️ 社区提示词": {
+    "message": "🏘️ Prompt cộng đồng",
+    "description": "Mục trên thanh điều hướng với nhãn 🏘️ 社区提示词"
+  },
+  "item.label.🛠️ 应用工具": {
+    "message": "🛠️ Công cụ ứng dụng",
+    "description": "Mục trên thanh điều hướng với nhãn 🛠️ 应用工具"
+  },
+  "item.label.IMGPrompt": {
+    "message": "IMGPrompt",
+    "description": "Mục trên thanh điều hướng với nhãn IMGPrompt"
+  },
+  "item.label.文字处理": {
+    "message": "Xử lý văn bản",
+    "description": "Mục trên thanh điều hướng với nhãn 文字处理"
+  },
+  "item.label.工具收藏": {
+    "message": "Bộ sưu tập công cụ",
+    "description": "Mục trên thanh điều hướng với nhãn 工具收藏"
+  },
+  "item.label.Find on Product Hunt": {
+    "message": "Tìm trên Product Hunt",
+    "description": "Mục trên thanh điều hướng với nhãn Find on Product Hunt"
+  },
+  "item.label.反馈建议": {
+    "message": "Góp ý",
+    "description": "Mục trên thanh điều hướng với nhãn 反馈建议"
+  },
+  "item.label.📝 提交反馈": {
+    "message": "📝 Gửi phản hồi",
+    "description": "Mục trên thanh điều hướng với nhãn 📝 提交反馈"
+  },
+  "item.label.💬 加入 QQ 群": {
+    "message": "💬 Tham gia nhóm QQ",
+    "description": "Mục trên thanh điều hướng với nhãn 💬 加入 QQ 群"
+  },
+  "item.label.📺 加入 Discord": {
+    "message": "📺 Tham gia Discord",
+    "description": "Mục trên thanh điều hướng với nhãn 📺 加入 Discord"
+  },
+  "item.label.脚本扩展": {
+    "message": "Tiện ích mở rộng",
+    "description": "Mục trên thanh điều hướng với nhãn 脚本扩展"
+  }
+}

@@ -1,0 +1,848 @@
+{
+  "field.id": {
+    "message": "发布时间"
+  },
+  "field.upvoteDifference": {
+    "message": "支持度"
+  },
+  "order.ascending": {
+    "message": "升序排列"
+  },
+  "order.descending": {
+    "message": "降序排列"
+  },
+  "upvote": {
+    "message": "赞成"
+  },
+  "downvote": {
+    "message": "反对"
+  },
+  "info.communityPrompts": {
+    "message": "本页显示的提示由网友分享和上传，我们无法保证内容的准确性、质量或完整性，也不承担因内容引起的任何法律责任。如果您发现违规或其他问题，可以联系我们解决。我们将在收到反馈后尽快处理。"
+  },
+  "feedback.title": {
+    "message": "反馈与建议"
+  },
+  "feedback.description": {
+    "message": "您的反馈对我们非常重要！"
+  },
+  "feedback.welcome": {
+    "message": "欢迎反馈！",
+    "description": "反馈页面上的欢迎标题"
+  },
+  "feedback.paragraph": {
+    "message": "欢迎提出建议、想法和意见，以便我们持续改进 ChatGPT Shortcut 并提升个人效率和生产力。如果您要反馈错误，请提供问题发生的链接及相关情况。对于提示内容，您可以提交多语言内容，或直接描述您的提示想法。我们正在寻找能激发思考或产出高质量结果的提示。一旦您提交的提示发布，您的贡献将添加到页面中。您可以通过搜索贡献者姓名（用户名）找到相关条目。",
+    "description": "反馈页面的主要段落"
+  },
+  "toggle_prompt_language": {
+    "message": "切换提示语言"
+  },
+  "showcase.filters.title": {
+    "message": "筛选器"
+  },
+  "toggle_prompt_language_description": {
+    "message": "更改显示提示的语言，在英文和当前页面语言之间切换。"
+  },
+  "showcase.searchBar.placeholder": {
+    "message": "搜索提示..."
+  },
+  "showcase.usersList.noResult": {
+    "message": "😒 未找到结果，请缩短搜索关键词"
+  },
+  "showcase.favoritesList.title": {
+    "message": "我们的收藏"
+  },
+  "showcase.usersList.allUsers": {
+    "message": "所有提示"
+  },
+  "加载更多": {
+    "message": "加载更多"
+  },
+  "message.resetPassword.success": {
+    "message": "重置密码成功！"
+  },
+  "error.resetPassword": {
+    "message": "重置密码时出错。"
+  },
+  "message.resetPassword.error": {
+    "message": "重置密码失败，请稍后再试。"
+  },
+  "input.resetPassword.code": {
+    "message": "请输入您的重置代码！"
+  },
+  "placeholder.resetPassword.code": {
+    "message": "重置代码"
+  },
+  "input.newPassword": {
+    "message": "请输入新密码！"
+  },
+  "placeholder.newPassword": {
+    "message": "新密码"
+  },
+  "input.confirmPassword": {
+    "message": "请确认新密码！"
+  },
+  "placeholder.confirmPassword": {
+    "message": "确认新密码"
+  },
+  "button.resetPassword": {
+    "message": "重置密码"
+  },
+  "message.resetPassword.error": {
+    "message": "重置密码失败，请稍后再试。"
+  },
+  "input.resetPassword.code": {
+    "message": "请输入您的重置代码！"
+  },
+  "placeholder.resetPassword.code": {
+    "message": "重置代码"
+  },
+  "input.newPassword": {
+    "message": "请输入新密码！"
+  },
+  "placeholder.newPassword": {
+    "message": "新密码"
+  },
+  "input.confirmPassword": {
+    "message": "请确认新密码！"
+  },
+  "placeholder.confirmPassword": {
+    "message": "确认新密码"
+  },
+  "button.resetPassword": {
+    "message": "重置密码"
+  },
+  "收藏": {
+    "message": "收藏"
+  },
+  "showcase.tag.favorite.description": {
+    "message": "收藏"
+  },
+  "写作辅助": {
+    "message": "写作辅助"
+  },
+  "showcase.tag.write.description": {
+    "message": "帮助您润色语法和风格的写作助手"
+  },
+  "文章/报告": {
+    "message": "文章/报告"
+  },
+  "showcase.tag.article.description": {
+    "message": "小说、随笔、新闻、剧本、报告等，带有特定写作风格"
+  },
+  "IT/编程": {
+    "message": "IT/编程"
+  },
+  "showcase.tag.code.description": {
+    "message": "虽然称为编程，但 ChatGPT 会根据需求提供编程步骤建议或简单示例代码，仅供测试，仍需开发者修改。"
+  },
+  "AI": {
+    "message": "AI"
+  },
+  "showcase.tag.ai.description": {
+    "message": "AI"
+  },
+  "生活质量": {
+    "message": "生活质量"
+  },
+  "showcase.tag.living.description": {
+    "message": "健身、饮食、大厨、美妆、造型"
+  },
+  "趣味知识": {
+    "message": "趣味知识"
+  },
+  "showcase.tag.interesting.description": {
+    "message": "趣味知识"
+  },
+  "自助百科": {
+    "message": "自助百科"
+  },
+  "showcase.tag.life.description": {
+    "message": "生活常识/自助百科"
+  },
+  "心理/社交": {
+    "message": "心理/社交"
+  },
+  "showcase.tag.social.description": {
+    "message": "心理/社交"
+  },
+  "哲学/宗教": {
+    "message": "哲学/宗教"
+  },
+  "showcase.tag.philosophy.description": {
+    "message": "哲学/宗教"
+  },
+  "发散思维": {
+    "message": "发散思维"
+  },
+  "showcase.tag.mind.description": {
+    "message": "提问、思考、联想、归纳"
+  },
+  "教育/学生": {
+    "message": "教育/学生"
+  },
+  "showcase.tag.pedagogy.description": {
+    "message": "与学生教育相关的内容"
+  },
+  "学术/教师": {
+    "message": "学术/教师"
+  },
+  "showcase.tag.academic.description": {
+    "message": "与科学或学校相关的人和事"
+  },
+  "游戏": {
+    "message": "游戏"
+  },
+  "showcase.tag.games.description": {
+    "message": "游戏"
+  },
+  "工具": {
+    "message": "工具"
+  },
+  "showcase.tag.tool.description": {
+    "message": "工具"
+  },
+  "终端/解释器": {
+    "message": "终端/解释器"
+  },
+  "showcase.tag.interpreter.description": {
+    "message": "终端/解释器"
+  },
+  "语言/翻译": {
+    "message": "语言/翻译"
+  },
+  "showcase.tag.language.description": {
+    "message": "多种语言生成、转换、翻译、识别等工具"
+  },
+  "辩论/演讲": {
+    "message": "辩论/演讲"
+  },
+  "showcase.tag.speech.description": {
+    "message": "辩论/演讲"
+  },
+  "点评/评鉴": {
+    "message": "点评/评鉴"
+  },
+  "showcase.tag.comments.description": {
+    "message": "点评/评鉴"
+  },
+  "文本/词语": {
+    "message": "文本/词语"
+  },
+  "showcase.tag.text.description": {
+    "message": "文本/词语"
+  },
+  "showcase.tag.company.description": {
+    "message": "企业中的职位"
+  },
+  "SEO": {
+    "message": "SEO"
+  },
+  "showcase.tag.seo.description": {
+    "message": "生成文本/关键词扩展"
+  },
+  "医生": {
+    "message": "医生"
+  },
+  "showcase.tag.doctor.description": {
+    "message": "医生"
+  },
+  "金融顾问": {
+    "message": "金融顾问"
+  },
+  "showcase.tag.finance.description": {
+    "message": "金融领域的职位"
+  },
+  "音乐": {
+    "message": "音乐"
+  },
+  "showcase.tag.music.description": {
+    "message": "音乐"
+  },
+  "行业顾问": {
+    "message": "行业顾问"
+  },
+  "showcase.tag.professional.description": {
+    "message": "律师、茶艺师等需要专业知识的职位"
+  },
+  "投稿": {
+    "message": "投稿"
+  },
+  "showcase.tag.contribute.description": {
+    "message": "大家的投稿可以帮助我们激发创意"
+  },
+  "input.rules.username": {
+    "message": "请输入您的用户名或注册邮箱！"
+  },
+  "input.rules.password": {
+    "message": "请输入您的密码！"
+  },
+  "input.rules.email": {
+    "message": "请输入您的邮箱地址！"
+  },
+  "message.error": {
+    "message": "输入失败，请稍后再试。"
+  },
+  "message.loginSuccess": {
+    "message": "登录成功！"
+  },
+  "message.registerSuccess": {
+    "message": "注册成功！"
+  },
+  "message.forgotPassword.success": {
+    "message": "重置密码的邮件已发送！"
+  },
+  "error.forgotPassword": {
+    "message": "发送忘记密码邮件时出错。"
+  },
+  "message.forgotPassword.error": {
+    "message": "无法发送重置密码邮件，请稍后再试。"
+  },
+  "input.username": {
+    "message": "用户名/邮箱"
+  },
+  "input.password": {
+    "message": "密码"
+  },
+  "button.login": {
+    "message": "登录"
+  },
+  "button.forgotPassword": {
+    "message": "忘记密码？"
+  },
+  "input.register.username": {
+    "message": "用户ID"
+  },
+  "input.email": {
+    "message": "请输入您的邮箱地址！"
+  },
+  "agreement.rules": {
+    "message": "使用前请同意使用条款和隐私政策"
+  },
+  "agreement.text": {
+    "message": "点击此处同意"
+  },
+  "agreement.terms": {
+    "message": "服务条款"
+  },
+  "agreement.and": {
+    "message": "和"
+  },
+  "agreement.policy": {
+    "message": "隐私政策"
+  },
+  "button.register": {
+    "message": "注册"
+  },
+  "placeholder.email": {
+    "message": "邮箱"
+  },
+  "button.sendResetEmail": {
+    "message": "发送重置邮件"
+  },
+  "tabs.login": {
+    "message": "登录"
+  },
+  "card.welcome": {
+    "message": "欢迎"
+  },
+  "tooltip.switchLang": {
+    "message": "点击切换显示语言"
+  },
+  "comments.info": {
+    "message": "请在下方回复您的评论、想法或留言。"
+  },
+  "message.changePassword.success": {
+    "message": "密码修改成功！"
+  },
+  "error.changePassword": {
+    "message": "修改密码时出错。"
+  },
+  "message.changePassword.error": {
+    "message": "修改密码失败，请稍后再试。"
+  },
+  "message.loading": {
+    "message": "加载中..."
+  },
+  "label.changePassword": {
+    "message": "修改密码"
+  },
+  "input.currentPassword": {
+    "message": "请输入当前密码！"
+  },
+  "placeholder.currentPassword": {
+    "message": "当前密码"
+  },
+  "button.changePassword": {
+    "message": "修改密码"
+  },
+  "title.userInfo": {
+    "message": "用户信息"
+  },
+  "userInfo.username": {
+    "message": "用户名"
+  },
+  "userInfo.email": {
+    "message": "邮箱"
+  },
+  "message.success": {
+    "message": "提交成功！"
+  },
+  "message.deletePrompt.confirm.title": {
+    "message": "确认删除"
+  },
+  "message.deletePrompt.confirm.content": {
+    "message": "确定要删除此提示吗？"
+  },
+  "message.deletePrompt.success": {
+    "message": "提示删除成功！"
+  },
+  "message.deletePrompt.error": {
+    "message": "提示删除失败，请稍后再试。"
+  },
+  "modal.updateprompt.title": {
+    "message": "更新当前提示"
+  },
+  "message.addprompt.requiredTitle": {
+    "message": "请输入提示标题！"
+  },
+  "input.addprompt.title": {
+    "message": "提示名称"
+  },
+  "message.addprompt.requiredDescription": {
+    "message": "请输入提示内容！"
+  },
+  "input.addprompt.description": {
+    "message": "提示内容"
+  },
+  "input.addprompt.remark": {
+    "message": "提示角色（非必填）"
+  },
+  "input.addprompt.notes": {
+    "message": "备注（可选）：可填写提示来源及其他语言版本，如有扩展需求也请在此说明。"
+  },
+  "message.addprompt.submission": {
+    "message": "是否在公共页面发布此提示？"
+  },
+  "button.updateprompt": {
+    "message": "更新提示"
+  },
+  "message.success1": {
+    "message": "点击“我的提示”查看新增的自定义提示。"
+  },
+  "button.logout": {
+    "message": "退出"
+  },
+  "input.addprompt.share.checked": {
+    "message": "已选"
+  },
+  "input.addprompt.share.unchecked": {
+    "message": "未选"
+  },
+  "button.addPrompt": {
+    "message": "添加提示"
+  },
+  "点击移除收藏": {
+    "message": "点击移除收藏"
+  },
+  "theme.ErrorPageContent.title": {
+    "message": "页面崩溃了。",
+    "description": "页面崩溃时的标题"
+  },
+  "theme.NotFound.title": {
+    "message": "页面未找到",
+    "description": "404 页面标题"
+  },
+  "theme.NotFound.p1": {
+    "message": "我们找不到您要访问的内容。",
+    "description": "404 页面第一段"
+  },
+  "theme.NotFound.p2": {
+    "message": "请联系引用原始链接的页面所有者，并告知链接已失效。",
+    "description": "404 页面第二段"
+  },
+  "theme.admonition.note": {
+    "message": "注意"
+  },
+  "theme.admonition.tip": {
+    "message": "提示"
+  },
+  "theme.admonition.danger": {
+    "message": "危险"
+  },
+  "theme.admonition.info": {
+    "message": "信息"
+  },
+  "theme.admonition.caution": {
+    "message": "警告"
+  },
+  "theme.BackToTopButton.buttonAriaLabel": {
+    "message": "返回顶部"
+  },
+  "theme.blog.archive.title": {
+    "message": "存档",
+    "description": "博客存档页面的标题"
+  },
+  "theme.blog.archive.description": {
+    "message": "存档",
+    "description": "博客存档页面的描述"
+  },
+  "theme.blog.paginator.navAriaLabel": {
+    "message": "博客列表页面导航",
+    "description": "博客分页的 ARIA 标签"
+  },
+  "theme.blog.paginator.newerEntries": {
+    "message": "较新的文章",
+    "description": "导航到较新博客文章页面（上一页）的标签"
+  },
+  "theme.blog.paginator.olderEntries": {
+    "message": "较旧的文章",
+    "description": "导航到较旧博客文章页面（下一页）的标签"
+  },
+  "theme.blog.post.paginator.navAriaLabel": {
+    "message": "博客文章页面导航",
+    "description": "博客文章分页的 ARIA 标签"
+  },
+  "theme.blog.post.paginator.newerPost": {
+    "message": "较新的文章",
+    "description": "导航到较新/前一篇文章的按钮标签"
+  },
+  "theme.blog.post.paginator.olderPost": {
+    "message": "较旧的文章",
+    "description": "导航到较旧/后一篇文章的按钮标签"
+  },
+  "theme.blog.post.plurals": {
+    "message": "1 篇文章|{count} 篇文章",
+    "description": "复数形式标签，用于“{count} 篇文章”"
+  },
+  "theme.blog.tagTitle": {
+    "message": "{nPosts} 个文章带有标签 \"{tagName}\"",
+    "description": "博客标签页的标题"
+  },
+  "theme.tags.tagsPageLink": {
+    "message": "查看所有标签",
+    "description": "跳转到标签列表页的链接标签"
+  },
+  "theme.colorToggle.ariaLabel": {
+    "message": "在深色和浅色模式间切换（当前 {mode}）",
+    "description": "切换颜色模式按钮的 ARIA 标签"
+  },
+  "theme.colorToggle.ariaLabel.mode.dark": {
+    "message": "深色模式",
+    "description": "深色模式的名称"
+  },
+  "theme.colorToggle.ariaLabel.mode.light": {
+    "message": "浅色模式",
+    "description": "浅色模式的名称"
+  },
+  "theme.docs.breadcrumbs.navAriaLabel": {
+    "message": "面包屑导航",
+    "description": "文档面包屑导航的 ARIA 标签"
+  },
+  "theme.docs.paginator.navAriaLabel": {
+    "message": "文档页面",
+    "description": "文档分页的 ARIA 标签"
+  },
+  "theme.docs.paginator.previous": {
+    "message": "上一页",
+    "description": "导航到前一份文档的标签"
+  },
+  "theme.docs.paginator.next": {
+    "message": "下一页",
+    "description": "导航到后一份文档的标签"
+  },
+  "theme.docs.tagDocListPageTitle.nDocsTagged": {
+    "message": "1 个文档被标记|{count} 个文档被标记",
+    "description": "复数形式标签，用于“{count} 个文档被标记”"
+  },
+  "theme.docs.tagDocListPageTitle": {
+    "message": "{nDocsTagged} 带有标签 \"{tagName}\"",
+    "description": "文档标签页的标题"
+  },
+  "theme.docs.versionBadge.label": {
+    "message": "版本: {versionLabel}"
+  },
+  "theme.common.editThisPage": {
+    "message": "编辑此页面",
+    "description": "编辑当前页面的链接标签"
+  },
+  "theme.docs.versions.unreleasedVersionLabel": {
+    "message": "这是 {siteTitle} {versionLabel} 的未发布文档。",
+    "description": "提示用户当前浏览的是未发布版本的标签"
+  },
+  "theme.docs.versions.unmaintainedVersionLabel": {
+    "message": "这是 {siteTitle} {versionLabel} 的文档，且不再维护。",
+    "description": "提示用户当前浏览的是不再维护版本的标签"
+  },
+  "theme.docs.versions.latestVersionSuggestionLabel": {
+    "message": "如需查看最新文档，请访问 {latestVersionLink} ({versionLabel})。",
+    "description": "提示用户去查看最新版本的标签"
+  },
+  "theme.docs.versions.latestVersionLinkLabel": {
+    "message": "最新版本",
+    "description": "最新版本链接标签"
+  },
+  "theme.common.headingLinkTitle": {
+    "message": "跳转到 {heading} 的链接",
+    "description": "标题锚点的链接标题"
+  },
+  "theme.lastUpdated.atDate": {
+    "message": " 于 {date}",
+    "description": "用于显示页面最后更新日期的文字"
+  },
+  "theme.lastUpdated.byUser": {
+    "message": " 由 {user}",
+    "description": "用于显示页面最后更新者的文字"
+  },
+  "theme.lastUpdated.lastUpdatedAtBy": {
+    "message": "最后更新 {atDate}{byUser}",
+    "description": "用于显示页面最后更新时间和更新者的句子"
+  },
+  "theme.navbar.mobileVersionsDropdown.label": {
+    "message": "版本",
+    "description": "移动端导航栏版本下拉菜单的标签"
+  },
+  "theme.tags.tagsListLabel": {
+    "message": "标签：",
+    "description": "标签列表前的标签文字"
+  },
+  "theme.AnnouncementBar.closeButtonAriaLabel": {
+    "message": "关闭",
+    "description": "公告栏关闭按钮的 ARIA 标签"
+  },
+  "theme.blog.sidebar.navAriaLabel": {
+    "message": "博客侧边栏最近文章导航",
+    "description": "博客侧边栏最近文章的导航 ARIA 标签"
+  },
+  "theme.docs.sidebar.closeSidebarButtonAriaLabel": {
+    "message": "关闭导航栏",
+    "description": "移动端侧边栏关闭按钮的 ARIA 标签"
+  },
+  "theme.navbar.mobileSidebarSecondaryMenu.backButtonLabel": {
+    "message": "← 返回主菜单",
+    "description": "移动端导航栏次级菜单返回主菜单的按钮标签（用于文档侧边栏）"
+  },
+  "theme.docs.sidebar.toggleSidebarButtonAriaLabel": {
+    "message": "切换导航栏",
+    "description": "移动端导航栏汉堡菜单按钮的 ARIA 标签"
+  },
+  "theme.docs.sidebar.expandButtonTitle": {
+    "message": "展开侧边栏",
+    "description": "文档侧边栏展开按钮的标题和 ARIA 标签"
+  },
+  "theme.docs.sidebar.expandButtonAriaLabel": {
+    "message": "展开侧边栏",
+    "description": "文档侧边栏展开按钮的 ARIA 标签"
+  },
+  "theme.ErrorPageContent.tryAgain": {
+    "message": "重试",
+    "description": "当 React 错误边界捕获错误时，重新渲染按钮的标签"
+  },
+  "theme.common.skipToMainContent": {
+    "message": "跳到主要内容",
+    "description": "无障碍辅助的跳转内容标签，允许用户快速导航到主要内容"
+  },
+  "theme.tags.tagsPageTitle": {
+    "message": "标签",
+    "description": "标签列表页标题"
+  },
+  "link.myfavorite": {
+    "message": "我的收藏"
+  },
+  "comment.reply": {
+    "message": "回复"
+  },
+  "edit": {
+    "message": "编辑"
+  },
+  "delete": {
+    "message": "删除"
+  },
+  "cancel": {
+    "message": "取消"
+  },
+  "comment.required": {
+    "message": "请输入您的评论"
+  },
+  "comment.maxLength": {
+    "message": "评论不能超过2000字符"
+  },
+  "comment.placeholder": {
+    "message": "在此输入评论... 支持 Markdown 和 HTML 语法。"
+  },
+  "reply.required": {
+    "message": "请输入回复内容"
+  },
+  "reply.submit": {
+    "message": "提交回复"
+  },
+  "comment.add": {
+    "message": "添加评论"
+  },
+  "comment.comments": {
+    "message": "评论"
+  },
+  "myprompt": {
+    "message": "我的提示"
+  },
+  "theme.admonition.warning": {
+    "message": "警告",
+    "description": "警告提示框的默认标签 (:::warning)"
+  },
+  "theme.DocSidebarItem.expandCategoryAriaLabel": {
+    "message": "展开侧边栏分类 '{label}'",
+    "description": "展开文档侧边栏分类的 ARIA 标签"
+  },
+  "theme.DocSidebarItem.collapseCategoryAriaLabel": {
+    "message": "折叠侧边栏分类 '{label}'",
+    "description": "折叠文档侧边栏分类的 ARIA 标签"
+  },
+  "企业职能": {
+    "message": "企业职能"
+  },
+  "myprompt.tooltip": {
+    "message": "我添加或创建的提示，可以保存为 AiShort 以便复用。"
+  },
+  "myfavorite.tooltip": {
+    "message": "我的提示收藏，包括社区提示。"
+  },
+  "community.tag.tooltip": {
+    "message": "社区分享的提示"
+  },
+  "community.tag": {
+    "message": "社区"
+  },
+  "theme.docs.DocCard.categoryDescription.plurals": {
+    "message": "{count} 个条目",
+    "description": "分类卡片的默认描述，显示包含的项目数"
+  },
+  "message.passwordlessLinkSent": {
+    "message": "无密码登录链接已发送！"
+  },
+  "message.errorSendingPasswordlessLink": {
+    "message": "发送失败，请检查邮箱或用户名。"
+  },
+  "button.sendPasswordlessLink": {
+    "message": "获取无密码登录链接"
+  },
+  "tabs.passwordlessLogin": {
+    "message": "无密码登录"
+  },
+  "theme.blog.author.pageTitle": {
+    "message": "{authorName} - {nPosts}",
+    "description": "博客作者页面标题"
+  },
+  "theme.blog.authorsList.pageTitle": {
+    "message": "作者",
+    "description": "作者列表页面标题"
+  },
+  "theme.blog.authorsList.viewAll": {
+    "message": "查看所有作者",
+    "description": "跳转到作者列表页面的链接标签"
+  },
+  "theme.contentVisibility.unlistedBanner.title": {
+    "message": "未列出页面",
+    "description": "未列出内容横幅标题"
+  },
+  "theme.contentVisibility.unlistedBanner.message": {
+    "message": "此页面未列出，搜索引擎不会收录，只有拥有直接链接的用户才能访问。",
+    "description": "未列出内容横幅消息"
+  },
+  "theme.contentVisibility.draftBanner.title": {
+    "message": "草稿页面",
+    "description": "草稿内容横幅标题"
+  },
+  "theme.contentVisibility.draftBanner.message": {
+    "message": "此页面为草稿，仅在开发环境中可见，并会被排除在生产构建之外。",
+    "description": "草稿内容横幅消息"
+  },
+  "theme.blog.author.noPosts": {
+    "message": "该作者尚未撰写任何文章。",
+    "description": "当作者为 0 篇文章时的文本"
+  },
+  "link.user": {
+    "message": "我的提示"
+  },
+  "link.myaccount": {
+    "message": "账户设置"
+  },
+  "link.addprompt": {
+    "message": "添加提示"
+  },
+  "modal.addprompt.title": {
+    "message": "分享提示（将显示在“我的提示”标签页）"
+  },
+  "showcase.header.button": {
+    "message": "🙏 分享你的提示"
+  },
+  "label.forgotPassword": {
+    "message": "忘记密码"
+  },
+  "link.home": {
+    "message": "首页"
+  },
+  "input.password.match": {
+    "message": "两次输入的密码不一致！"
+  },
+  "input.password.valid": {
+    "message": "密码至少需要 6 个字符。"
+  },
+  "message.forgotPassword.info": {
+    "message": "重置密码链接将发送至您的邮箱。"
+  },
+  "input.email.valid": {
+    "message": "请输入有效的邮箱地址！"
+  },
+  "message.passwordlessLogin.info": {
+    "message": "登录链接将发送至您的邮箱，点击即可无密码登录。"
+  },
+  "message.fetchError": {
+    "message": "无法获取提示，请稍后再试。"
+  },
+  "message.noPrompts": {
+    "message": "尚未提交提示，请添加您的提示。"
+  },
+  "message.cache.cleared": {
+    "message": "缓存已清除。"
+  },
+  "tooltip.clearCache": {
+    "message": "如果您在其他设备更新了收藏或提示，请点击清除缓存以同步最新内容。"
+  },
+  "button.clearCache": {
+    "message": "清除缓存"
+  },
+  "hideTags": {
+    "message": "隐藏标签"
+  },
+  "showTags": {
+    "message": "顯示標籤"
+  },
+  "theme.colorToggle.ariaLabel.mode.system": {
+    "message": "系統模式",
+    "description": "系統顏色模式的名稱"
+  },
+  "theme.navbar.mobileDropdown.collapseButton.expandAriaLabel": {
+    "message": "展開下拉選單",
+    "description": "行動版導覽列下拉選單展開按鈕的 ARIA 標籤"
+  },
+  "theme.navbar.mobileDropdown.collapseButton.collapseAriaLabel": {
+    "message": "收起下拉選單",
+    "description": "行動版導覽列下拉選單收起按鈕的 ARIA 標籤"
+  },
+  "homepage.slogan": {
+    "message": "掌握 AI 智能代理，釋放十倍生產力"
+  },
+  "homepage.title": {
+    "message": "AiShort - 先進的 AI 智能代理與提示平台｜一鍵創建、分享，提升生產力"
+  },
+  "homepage.description": {
+    "message": "AiShort（ChatGPT Shortcut）是一個領先的 AI 智能代理與提示平台，旨在徹底改變您的工作與學習方式。在這裡，您不僅可以探索龐大的高品質提示庫，還能一鍵輕鬆創建、管理與執行強大的 AI 智能代理，以自動化複雜任務。AiShort 支援多語言，使與 AI 的協作更高效。立即加入我們的創作者社群，一同探索、分享 AI 智能代理的無限潛力，開啟超高生產力的時代！"
+  },
+  "community.title": {
+    "message": "AiShort 創作者社群 - 共同創建與分享 AI 智能代理與提示，探索未來工作流程"
+  },
+  "community.description": {
+    "message": "歡迎來到 AiShort 創作者社群！這裡是 AI 智能代理與提示愛好者的聚集地。您可以發現由社群成員創建的強大 AI 智能代理，一鍵應用於寫作、程式、行銷分析與各種工作流程。參與討論、優化解決方案，並與其他創意者合作，將奇思妙想轉化為高效的自動化解決方案。立即加入並分享您的第一個 AI 智能代理吧！"
+  }
+}
+

@@ -1,0 +1,58 @@
+{
+  "title": {
+    "message": "AI Short",
+    "description": "導覽列中的標題"
+  },
+  "logo.alt": {
+    "message": "ChatGPT 快捷指令",
+    "description": "導覽列 Logo 的替代文字"
+  },
+  "item.label.📘 使用说明": {
+    "message": "📘 使用說明",
+    "description": "導覽列項目，標籤為 📘 使用說明"
+  },
+  "item.label.🏘️ 社区提示词": {
+    "message": "🏘️ 社群提示詞",
+    "description": "導覽列項目，標籤為 🏘️ 社群提示詞"
+  },
+  "item.label.🛠️ 应用工具": {
+    "message": "🛠️ 應用工具",
+    "description": "導覽列項目，標籤為 🛠️ 應用工具"
+  },
+  "item.label.IMGPrompt": {
+    "message": "IMGPrompt",
+    "description": "導覽列項目，標籤為 IMGPrompt"
+  },
+  "item.label.文字处理": {
+    "message": "文字處理",
+    "description": "導覽列項目，標籤為 文字處理"
+  },
+  "item.label.工具收藏": {
+    "message": "工具收藏",
+    "description": "導覽列項目，標籤為 工具收藏"
+  },
+  "item.label.Find on Product Hunt": {
+    "message": "在 Product Hunt 上找到我們",
+    "description": "導覽列項目，標籤為 Find on Product Hunt"
+  },
+  "item.label.反馈建议": {
+    "message": "意見回饋",
+    "description": "導覽列項目，標籤為 反馈建议"
+  },
+  "item.label.📝 提交反馈": {
+    "message": "📝 提交回饋",
+    "description": "導覽列項目，標籤為 📝 提交回饋"
+  },
+  "item.label.💬 加入 QQ 群": {
+    "message": "💬 加入 QQ 群聊天",
+    "description": "導覽列項目，標籤為 💬 加入 QQ 群"
+  },
+  "item.label.📺 加入 Discord": {
+    "message": "📺 加入 Discord",
+    "description": "導覽列項目，標籤為 📺 加入 Discord"
+  },
+  "item.label.脚本扩展": {
+    "message": "腳本擴充功能",
+    "description": "導覽列項目，標籤為 腳本擴充功能"
+  }
+}

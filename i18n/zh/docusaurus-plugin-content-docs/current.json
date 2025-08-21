@@ -1,0 +1,19 @@
+{
+  "version.label": {
+    "message": "下一個版本",
+    "description": "當前版本的標籤"
+  },
+  "sidebar.docs.category.Policies": {
+    "message": "政策",
+    "description": "側邊欄文件中「政策」分類的標籤"
+  },
+  "sidebar.docs.category.使用指南": {
+    "message": "使用指南",
+    "description": "側邊欄文件中「使用指南」分類的標籤"
+  },
+  "sidebar.docs.category.浏览器插件": {
+    "message": "瀏覽器擴充功能",
+    "description": "側邊欄文件中「瀏覽器擴充功能」分類的標籤"
+  }
+}
+
